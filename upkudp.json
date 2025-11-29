@@ -1,15 +1,11 @@
 {
-  
-"version": 30,
-"message": "Config version: 30\nWhat's new \n TH VIP Server 🇹🇭 1 mother 70 bth \nAdmin👨‍💻 UPK",
-"fileUrl": "https://raw.githubusercontent.com/Upk123/upkfreevippro2025/refs/heads/main/up.txt",
-
-"RewardAmount": 1,
-
-"messageWarning":"What's new ?\n• Updated UI \n• Added Hotshare function \n• Fixed bug and more\n \nThanks for your understand❤️",
-"title":"Can't use continue current version, you need to upgrade V1.0.3 ",
-"link":"",
-"website":"",
-"versionCode": 3
-  
+ "version": 31,
+ "message": "Config version: 31\nWhat's new: Servers updated.\nAdmin: UPK",
+ "fileUrl": "https:\/\/raw.githubusercontent.com\/Upk123\/upkfreevippro2025\/main\/up.txt",
+ "RewardAmount": 1,
+ "messageWarning": "What's new ?\n• Updated config\n• Fixed bugs",
+ "title": "Config update available",
+ "link": "",
+ "website": "",
+ "versionCode": 3
 }
