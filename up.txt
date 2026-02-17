@@ -1,1 +1,1 @@
-{"BannerFam":"","RewardFam":"","InterFam":"","CtLinkVIP":"","CtLinkPremium":"","GroupLink":"","keyApi":"","GuideSim":"","ConfigVersion":"6","Servers":[]}
+{"BannerFam":"","RewardFam":"","InterFam":"","CtLinkVIP":"","CtLinkPremium":"","GroupLink":"","keyApi":"","GuideSim":"","ConfigVersion":"7","Servers":[]}
